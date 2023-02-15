@@ -1,5 +1,7 @@
+---
 layout: page
-title: "test page"
-permalink: /about/test/
+title: Test Page
+permalink: /test/page/
+---
 
 # This is the content of this page.
