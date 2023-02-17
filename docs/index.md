@@ -18,74 +18,6 @@ My Email: yuan.yang at vanderbilt dot edu
 
 
 
-
-
-
-
-***
-
-# Research Interests
-I am particularly interested in three closely related topics---visual abstract reasoning, analogy making, 
-and mental imagery. And most of my works lie in the interdisciplinary area of AI and cognitive systems.
-
-## Visual Abstract Reasoning
-Visual abstract reasoning tasks are commonly used in human intelligence tests 
-for they can be very insensitive to non-intelligence factors, such as cultural and educational background, 
-and, meanwhile, closely correlated to core intelligence factors, such as fluid intelligence. 
-I build AI system to solve visual abstract reasoning tasks. 
-The interesting part of this work is not solving the problem per se,
-but to build AI's ability of visual abstract reasoning that allow it to make sense out of unseen situations. 
-In fact, the world "reasoning" here is a bit inaccurate when visual abstract reasoning is discussed 
-as visual abstract reasoning tasks are mainly testing the ability to discover underlying patterns of perceptual stimuli;
-but, once the underlying patterns are found, the reasoning is relatively trivial.
-
-## Visual Analogy Making
-Analogy making is at the center of human cognition. 
-Like visual abstract reasoning, analogy problems are also widely used in many standardized tests.
-Visual analogy making can be considered as a specific case of visual abstract reasoning,
-in which reasoning is based on analogy. 
-The interesting part of visual analogy making is, given two objects between which an analogy can be made,
-when/how we process inter-object relations and when/how we process intra-object relations, 
-i.e., relations between components in each object.
-These two aspects of information processing are against and interdependent on each other.
-It is similar to the question of which came first: the chicken or the egg.
-An iterative dynamic cognitive process probably exists to reconcile between these two aspects.
-And I am looking into possible implementations of such a cognitive process in AI systems.
-
-## Mental Imagery
-While the imagery debate for human cognition has been going on for decades and never got resolved, 
-the imagery representation is an idea way to realize AI and has been less explored in AI research.
-AI (researchers) alway has to face a trade between different representations; 
-choosing one against another usually means an AI system that works in some situations but not the others.
-In contrast, no matter what representation (imagery or proposition) human cognition uses,
-it leads to robust intellectual ability in all situations.
-I thus look into the possible implementations of mental imagery.
-The interesting part of this research is that mental imagery is not equivalent to mental images; 
-and, similarly, computational imagery is not equivalent to computer images.
-In particular, human can experience the mental imagery when the corresponding perceptual input is absent;
-human can mentally manipulate mental imagery and base their thinking and reasoning on mental imagery, 
-i.e., every step of the thinking process can be rendered as a mental image;
-and thus the abstract concepts involving the thinking process can be easily obtained from mental imagery.
-In a word, mental imagery implies visual thinking.
-
-There are already some extremely prototypical AI systems that involve mental imagery, 
-for example, the generative deep learning models.
-The ability to generate image according to latent variables is essential for mental imagery,
-which is similar to the situation that human can experience mental imagery without perceptual input.
-However, human mental imagery is far more sophisticated than generating images. 
-These works can be a good start to explore the realm of computational imagery.
-
-<!---
-## The Paradoxical Flavor of My Research
-As you can tell these research topics, they are all dealing with some paradoxical cases. 
-For example, ...
-While AI itself is paradoxical ... (GEB stuff), Gedol theorem
---->
-
-
-
-
-
 ***
 
 # Publications
@@ -157,6 +89,73 @@ In 2016 12th World Congress on Intelligent Control and Automation, pages 2209–
 A developmental actor-critic reinforcement learning approach for task-nonspecific robot. 
 In 2016 IEEE Chinese Guidance, Navigation and Control Conference, pages 2231–2237. IEEE, 2016.
 [PDF](https://ieeexplore.ieee.org/abstract/document/7829139)
+
+
+
+***
+
+# Research Interests
+I am particularly interested in three closely related topics---visual abstract reasoning, analogy making, 
+and mental imagery. And most of my works lie in the interdisciplinary area of AI and cognitive systems.
+
+## Visual Abstract Reasoning
+Visual abstract reasoning tasks are commonly used in human intelligence tests 
+for they can be very insensitive to non-intelligence factors, such as cultural and educational background, 
+and, meanwhile, closely correlated to core intelligence factors, such as fluid intelligence. 
+I build AI system to solve visual abstract reasoning tasks. 
+The interesting part of this work is not solving the problem per se,
+but to build AI's ability of visual abstract reasoning that allow it to make sense out of unseen situations. 
+In fact, the world "reasoning" here is a bit inaccurate when visual abstract reasoning is discussed 
+as visual abstract reasoning tasks are mainly testing the ability to discover underlying patterns of perceptual stimuli;
+but, once the underlying patterns are found, the reasoning is relatively trivial.
+
+## Visual Analogy Making
+Analogy making is at the center of human cognition. 
+Like visual abstract reasoning, analogy problems are also widely used in many standardized tests.
+Visual analogy making can be considered as a specific case of visual abstract reasoning,
+in which reasoning is based on analogy. 
+The interesting part of visual analogy making is, given two objects between which an analogy can be made,
+when/how we process inter-object relations and when/how we process intra-object relations, 
+i.e., relations between components in each object.
+These two aspects of information processing are against and interdependent on each other.
+It is similar to the question of which came first: the chicken or the egg.
+An iterative dynamic cognitive process probably exists to reconcile between these two aspects.
+And I am looking into possible implementations of such a cognitive process in AI systems.
+
+## Mental Imagery
+While the imagery debate for human cognition has been going on for decades and never got resolved, 
+the imagery representation is an idea way to realize AI and has been less explored in AI research.
+AI (researchers) alway has to face a trade between different representations; 
+choosing one against another usually means an AI system that works in some situations but not the others.
+In contrast, no matter what representation (imagery or proposition) human cognition uses,
+it leads to robust intellectual ability in all situations.
+I thus look into the possible implementations of mental imagery.
+The interesting part of this research is that mental imagery is not equivalent to mental images; 
+and, similarly, computational imagery is not equivalent to computer images.
+In particular, human can experience the mental imagery when the corresponding perceptual input is absent;
+human can mentally manipulate mental imagery and base their thinking and reasoning on mental imagery, 
+i.e., every step of the thinking process can be rendered as a mental image;
+and thus the abstract concepts involving the thinking process can be easily obtained from mental imagery.
+In a word, mental imagery implies visual thinking.
+
+There are already some extremely prototypical AI systems that involve mental imagery, 
+for example, the generative deep learning models.
+The ability to generate image according to latent variables is essential for mental imagery,
+which is similar to the situation that human can experience mental imagery without perceptual input.
+However, human mental imagery is far more sophisticated than generating images. 
+These works can be a good start to explore the realm of computational imagery.
+
+<!---
+## The Paradoxical Flavor of My Research
+As you can tell these research topics, they are all dealing with some paradoxical cases. 
+For example, ...
+While AI itself is paradoxical ... (GEB stuff), Gedol theorem
+--->
+
+
+
+
+
 
 
 
