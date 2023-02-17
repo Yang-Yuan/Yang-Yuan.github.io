@@ -1,0 +1,9 @@
+.current {
+  color: green;
+}
+
+p {
+  max-width: 1000px;
+  min-width: 100px;
+}
+
