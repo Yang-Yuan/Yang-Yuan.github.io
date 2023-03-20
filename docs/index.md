@@ -124,7 +124,7 @@ And I am looking into possible implementations of such a cognitive process in AI
 
 ## Computational Imagery
 While the imagery debate for human cognition has been going on for decades and never got resolved, 
-the imagery representation is an idea way to realize AI and has been less explored in AI research.
+the imagery representation is an ideal way to realize AI and has been less explored in AI research.
 AI (researchers) alway has to face a trade-off between different representations; 
 choosing one against another usually means an AI system that works in some situations but not the others.
 In contrast, no matter what representation (imagery or proposition) human cognition uses,
