@@ -25,7 +25,7 @@ My Email: yuan.yang [at] vanderbilt [dot] edu
 ## 2023
 
 - **Yang, Yuan**, Deepayan Sanyal, Joel Michelson, James Ainooson, and Maithilee Kunda. 
-Deep non-monotonic reasoning for visual abstract reasoning tasks. CogSci 2023, under review. 
+Deep non-monotonic reasoning for visual abstract reasoning tasks. Preprint. 
 [PDF](https://arxiv.org/pdf/2302.07137.pdf){:target="_blank"}
 
 - **Yang, Yuan** and Mathilee Kunda. 
@@ -37,7 +37,7 @@ Visual-imagery-based analogical construction in geometric matrix reasoning task.
 [PDF](https://arxiv.org/pdf/2208.13841.pdf){:target="_blank"}
 
 - Deepayan Sanyal, Joel Michelson, **Yuan Yang**, James Ainooson, and Mathilee Kunda. 
-A computational account of self-supervised visual learning from egocentric object play. CogSci 2023,under review. 
+A computational account of self-supervised visual learning from egocentric object play. CogSci 2023. 
 
 - James Ainooson, Deepayan Sanyal, Joel Michelson, **Yang, Yuan**, and Mathilee Kunda. 
 An approach for solving tasks on the abstract reasoning corpus. CogSci 2023,under review. 
@@ -125,7 +125,7 @@ And I am looking into possible implementations of such a cognitive process in AI
 ## Computational Imagery
 While the imagery debate for human cognition has been going on for decades and never got resolved, 
 the imagery representation is an ideal way to realize AI and has been less explored in AI research.
-AI (researchers) alway has to face a trade-off between different representations; 
+AI (researchers) always has to face a trade-off between different representations; 
 choosing one against another usually means an AI system that works in some situations but not the others.
 In contrast, no matter what representation (imagery or proposition) human cognition uses,
 it leads to robust intellectual ability in all situations.
