@@ -8,7 +8,7 @@ title: Yuan Yang
 ***
 
 # Yuan Yang's Homepage
-Hi! I am a PhD student in the [Department of Computer Science](https://engineering.vanderbilt.edu/cs/){:target="_blank"}
+Hi! I am a PhD candidate in the [Department of Computer Science](https://engineering.vanderbilt.edu/cs/){:target="_blank"}
 at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}.
 
 I am advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"} and 
