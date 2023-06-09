@@ -37,10 +37,10 @@ Visual-imagery-based analogical construction in geometric matrix reasoning task.
 [PDF](https://arxiv.org/pdf/2208.13841.pdf){:target="_blank"}
 
 - Deepayan Sanyal, Joel Michelson, **Yuan Yang**, James Ainooson, and Mathilee Kunda. 
-A computational account of self-supervised visual learning from egocentric object play. CogSci 2023. 
+A computational account of self-supervised visual learning from egocentric object play. CogSci 2023.[PDF](https://arxiv.org/abs/2305.19445){:target="_blank"}
 
 - James Ainooson, Deepayan Sanyal, Joel Michelson, **Yang, Yuan**, and Mathilee Kunda. 
-An approach for solving tasks on the abstract reasoning corpus. CogSci 2023,under review. 
+An approach for solving tasks on the abstract reasoning corpus. Preprint, 2023.[PDF](https://arxiv.org/abs/2302.09425){:target="_blank"}
 
 
 ## 2022
