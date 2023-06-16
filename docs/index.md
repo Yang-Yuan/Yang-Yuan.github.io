@@ -7,7 +7,7 @@ title: Yuan Yang
 
 ***
 
-# Yuan Yang's Homepage
+# Yuan Yang
 ![Hello!](/assets/images/yy.png){: style="float: left"} Hi! I am a PhD candidate in the [Department of Computer Science](https://engineering.vanderbilt.edu/cs/){:target="_blank"} at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}. I am advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"} and working in the [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}, directed by Prof. Kunda. My Email: yuan.yang [at] vanderbilt [dot] edu
 
 
