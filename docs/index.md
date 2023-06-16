@@ -8,7 +8,7 @@ title: Yuan Yang
 ***
 
 # Yuan Yang's Homepage
-![ ](/docs/assets/images/yy.png)
+![ ](/_site/assets/images/yy.png)
 Hi! I am a PhD candidate in the [Department of Computer Science](https://engineering.vanderbilt.edu/cs/){:target="_blank"}
 at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}.
 
