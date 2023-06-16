@@ -8,12 +8,7 @@ title: Yuan Yang
 ***
 
 # Yuan Yang's Homepage
-![Hello!](/assets/images/yy.png)
-Hi! I am a PhD candidate in the [Department of Computer Science](https://engineering.vanderbilt.edu/cs/){:target="_blank"}
-at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}.
-I am advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"} and 
-working in the [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}, directed by Prof. Kunda.
-My Email: yuan.yang [at] vanderbilt [dot] edu
+![Hello!](/assets/images/yy.png) Hi! I am a PhD candidate in the [Department of Computer Science](https://engineering.vanderbilt.edu/cs/){:target="_blank"} at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}. I am advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"} and working in the [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}, directed by Prof. Kunda. My Email: yuan.yang [at] vanderbilt [dot] edu
 
 
 
@@ -23,23 +18,15 @@ My Email: yuan.yang [at] vanderbilt [dot] edu
 
 ## 2023
 
-- **Yang, Yuan**, Deepayan Sanyal, Joel Michelson, James Ainooson, and Maithilee Kunda. 
-Deep non-monotonic reasoning for visual abstract reasoning tasks. Preprint. 
-[PDF](https://arxiv.org/pdf/2302.07137.pdf){:target="_blank"}
+- **Yang, Yuan**, Deepayan Sanyal, Joel Michelson, James Ainooson, and Maithilee Kunda. Deep non-monotonic reasoning for visual abstract reasoning tasks. Preprint. [PDF](https://arxiv.org/pdf/2302.07137.pdf){:target="_blank"}
 
-- **Yang, Yuan** and Mathilee Kunda. 
-Computational models of solving raven’s progressive matrices: A comprehensive introduction. Preprint, 2023. 
-[PDF](https://arxiv.org/pdf/2302.04238.pdf){:target="_blank"}
+- **Yang, Yuan** and Mathilee Kunda. Computational models of solving raven’s progressive matrices: A comprehensive introduction. Preprint, 2023. [PDF](https://arxiv.org/pdf/2302.04238.pdf){:target="_blank"}
 
-- **Yang, Yuan**, Keith McGreggor, and Maithilee Kunda. 
-Visual-imagery-based analogical construction in geometric matrix reasoning task. In press. Advances in Cognitive Systems, 2023
-[PDF](https://arxiv.org/pdf/2208.13841.pdf){:target="_blank"}
+- **Yang, Yuan**, Keith McGreggor, and Maithilee Kunda. Visual-imagery-based analogical construction in geometric matrix reasoning task. In press. Advances in Cognitive Systems, 2023. [PDF](https://arxiv.org/pdf/2208.13841.pdf){:target="_blank"}
 
-- Deepayan Sanyal, Joel Michelson, **Yuan Yang**, James Ainooson, and Mathilee Kunda. 
-A computational account of self-supervised visual learning from egocentric object play. CogSci 2023.[PDF](https://arxiv.org/abs/2305.19445){:target="_blank"}
+- Deepayan Sanyal, Joel Michelson, **Yuan Yang**, James Ainooson, and Mathilee Kunda. A computational account of self-supervised visual learning from egocentric object play. CogSci 2023.[PDF](https://arxiv.org/abs/2305.19445){:target="_blank"}
 
-- James Ainooson, Deepayan Sanyal, Joel Michelson, **Yang, Yuan**, and Mathilee Kunda. 
-An approach for solving tasks on the abstract reasoning corpus. Preprint, 2023.[PDF](https://arxiv.org/abs/2302.09425){:target="_blank"}
+- James Ainooson, Deepayan Sanyal, Joel Michelson, **Yang, Yuan**, and Mathilee Kunda. An approach for solving tasks on the abstract reasoning corpus. Preprint, 2023.[PDF](https://arxiv.org/abs/2302.09425){:target="_blank"}
 
 
 ## 2022
