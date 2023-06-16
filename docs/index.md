@@ -8,7 +8,14 @@ title: Yuan Yang
 ***
 
 # Yuan Yang
-![Hello!](/assets/images/yy.png){: style="float: left"} Hi! I am a PhD candidate in the [Department of Computer Science](https://engineering.vanderbilt.edu/cs/){:target="_blank"} at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}. I am advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"} and working in the [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}, directed by Prof. Kunda. My Email: yuan.yang [at] vanderbilt [dot] edu
+![Hello!](/assets/images/yy.png){: style="float: left"} Hi! Welcome to my homepage! I am currently a PhD candidate in computer science at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}, advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"}. I will graduate soon (by soon, I mean like in several months) and I am actively looking for a research position in both academia and industry.
+
+My research lies in the intersecting area between AI and cognitive science, trying to answer big questions about intelligence---both human and machine intelligence. Thus, my research is deeply rooted in the studies of artificial general intelligence, human general intelligence, fluid intelligence, intelligence testing, abstract reasoning, visual reasoning, cognitive information processing, and,      
+
+
+and working in the [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}, directed by Prof. Kunda. 
+
+My Email: yuan.yang [at] vanderbilt [dot] edu
 
 
 
