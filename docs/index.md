@@ -12,7 +12,7 @@ title: Yuan Yang
 ![Hello!](/assets/images/yy.png){: style="float: left"}
 --->
 
-<img align="left" width="100" height="100" src="/assets/images/yy.png">
+<img align="left" width="150" height="150" src="/assets/images/yy.png"  style="margin-right: 20px;">
 
 Hi! Welcome to my homepage! I am currently a PhD candidate in computer science at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}, advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"}. I will graduate soon (by soon, I mean like in several months), so I'm actively looking for a research position in academia or industry.
 
