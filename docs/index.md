@@ -8,7 +8,13 @@ title: Yuan Yang
 ***
 
 # Yuan Yang
-![Hello!](/assets/images/yy.png){: style="float: left"} Hi! Welcome to my homepage! I am currently a PhD candidate in computer science at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}, advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"}. I will graduate soon (by soon, I mean like in several months), so I'm actively looking for a research position in academia or industry.
+<!---
+![Hello!](/assets/images/yy.png){: style="float: left"}
+--->
+
+<img align="left" width="100" height="100" src="/assets/images/yy.png">
+
+Hi! Welcome to my homepage! I am currently a PhD candidate in computer science at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}, advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"}. I will graduate soon (by soon, I mean like in several months), so I'm actively looking for a research position in academia or industry.
 
 I have been fanatically pursuing big questions about intelligence per se in my research---not only artificial intelligence (AI) but human intelligence (HI). Thus, my research is unavoidably interdisciplinary and interwined with studies about general intelligence, fluid intelligence, intelligence testing, abstract reasoning, visual spatial reasoning, and cognitive information processing. Find more about my and my lab's works at [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}. 
 
