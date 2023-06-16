@@ -1,3 +1,18 @@
 ---
 ---
 // @import "main";
+
+/* <length> values */
+margin-left: 10px; /* An absolute length */
+margin-left: 1em; /* relative to the text size */
+margin-left: 5%; /* relative to the nearest block container's width */
+
+/* Keyword values */
+margin-left: auto;
+
+/* Global values */
+margin-left: inherit;
+margin-left: initial;
+margin-left: revert;
+margin-left: revert-layer;
+margin-left: unset;
