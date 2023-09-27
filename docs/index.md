@@ -28,7 +28,10 @@ Feel free to shoot me a message at yuan.yang [at] vanderbilt [dot] edu if you wa
 
 ## 2023
 
-- **Yang, Yuan**, Deepayan Sanyal, Joel Michelson, James Ainooson, and Maithilee Kunda. Deep non-monotonic reasoning for visual abstract reasoning tasks. Preprint. [PDF](https://arxiv.org/pdf/2302.07137.pdf){:target="_blank"}
+- **Yuan Yang**, Deepayan Sanyal, James Ainooson, Joel Michelson, Effat Farhana, and Maithilee Kunda. A cognitively-inspired neural architecture for visual abstract reasoning using contrastive perceptual and
+conceptual processing. Preprint, 2023. [PDF](https://arxiv.org/pdf/2309.10532.pdf){:target="_blank"}.
+
+- **Yang, Yuan**, Deepayan Sanyal, Joel Michelson, James Ainooson, and Maithilee Kunda. Deep non-monotonic reasoning for visual abstract reasoning tasks. Preprint, 2023. [PDF](https://arxiv.org/pdf/2302.07137.pdf){:target="_blank"}
 
 - **Yang, Yuan** and Mathilee Kunda. Computational models of solving raven’s progressive matrices: A comprehensive introduction. Preprint, 2023. [PDF](https://arxiv.org/pdf/2302.04238.pdf){:target="_blank"}
 
