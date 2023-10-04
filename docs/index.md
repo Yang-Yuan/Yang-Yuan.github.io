@@ -104,8 +104,8 @@ While AI itself is paradoxical ... (GEB stuff), Gedol theorem
 ***
 
 # Education
-
-- Vanderbilt University, Nashville, TN, USA, Ph.D. student in Computer Science, 2018 – present.
+- Vanderbilt University, Nashville, TN, USA, Ph.D. candidate in Computer Science, 2023 – present.
+- Vanderbilt University, Nashville, TN, USA, Ph.D. student in Computer Science, 2018 – 2023.
 - Northwestern Polytechnical University, Xi’an, China, M.S. in Computer Science, 2016.
 - Northwestern Polytechnical University, Xi’an, China, B.S. in Computer Science, 2011.
 
