@@ -136,9 +136,9 @@ While AI itself is paradoxical ... (GEB stuff), Gedol theorem
 ***
 
 # Awards and Honors
-
-- Neurodiversity Inspired Science and Engineering Traineeship Award, Vanderbilt University, 2020
-- Patrick Henry Winston Award for Best Student Paper, the Eighth Annual Conference on Advances in Cognitive Systems
+- Proposal accepted by AAAI Doctoral Consortium, Vancouver, Canada, 2024.
+- Neurodiversity Inspired Science and Engineering Traineeship Award, Vanderbilt University, 2020.
+- Patrick Henry Winston Award for Best Student Paper, the Eighth Annual Conference on Advances in Cognitive Systems, 2020.
 - [Our Lab Interviewed by CBS 60 Minutes](https://youtu.be/YnAUy4BM0w8){:target="_blank"}
 - Graduate Scholarship, Vanderbilt University, 2018 – present.
 - Graduate Scholarship, Northwestern Polytechnical University, 2013 – 2016.
