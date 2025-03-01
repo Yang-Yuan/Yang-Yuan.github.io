@@ -14,11 +14,11 @@ title: Yuan Yang
 
 <img align="left" width="150" height="150" src="/assets/images/yy.png"  style="margin-right: 20px;">
 
-Hi! Welcome to my homepage! I am currently a PhD candidate in computer science at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}, advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"}. I will graduate soon (by soon, I mean like in several months), so I'm actively looking for a research position in academia or industry.
+Hi! Welcome to my homepage! I am Yuan Yang. I did my PhD in computer science at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}, advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"}. I am now  a new faculty member of the [College of Information, Mechanical, and Electrical Engineering](https://xxjd.shnu.edu.cn){:target="_blank"} at [Shanghai Normal Unversity](https://www.shnu.edu.cn/){:target="_blank"}. I am constantly looking for collaborators in AI and cogntive science. And I am also accepting new master students this year. 
+ 
+I have been fanatically pursuing big questions about intelligence per se---not only artificial intelligence (AI) but human intelligence (HI). My research is thus unavoidably interdisciplinary and interwined with studies about general intelligence, fluid intelligence, intelligence testing, abstract reasoning, visual spatial reasoning, cognitive information processing, and AI applcations in education. Find more about me and my lab's works at [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}. My [SHNU website](https://teacher.shnu.edu.cn/xxjdgcxy/yy2/list.psp){:target="_blank"} is under construction.
 
-I have been fanatically pursuing big questions about intelligence per se---not only artificial intelligence (AI) but human intelligence (HI). My research is thus unavoidably interdisciplinary and interwined with studies about general intelligence, fluid intelligence, intelligence testing, abstract reasoning, visual spatial reasoning, and cognitive information processing. Find more about my and my lab's works at [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}. 
-
-Feel free to shoot me a message at yuan.yang [at] vanderbilt [dot] edu if you want to know more about my work.
+Feel free to shoot me a message at  yuan.yang [at] shnu [dot] edu [dot] cn if you want to know more about my work.
 
 
 
