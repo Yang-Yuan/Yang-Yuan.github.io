@@ -111,17 +111,17 @@ While AI itself is paradoxical ... (GEB stuff), Gedol theorem
 ***
 
 # Education
-- Vanderbilt University, Nashville, TN, USA, Ph.D. candidate in Computer Science, 2023 – present.
-- Vanderbilt University, Nashville, TN, USA, Ph.D. student in Computer Science, 2018 – 2023.
-- Northwestern Polytechnical University, Xi’an, China, M.S. in Computer Science, 2016.
-- Northwestern Polytechnical University, Xi’an, China, B.S. in Computer Science, 2011.
+- Vanderbilt University, Nashville, TN, USA, Ph.D. in Computer Science, 2024.
+- Vanderbilt University, Nashville, TN, USA, M.S. in Computer Science, 2023.
+- Northwestern Polytechnical University, Xi'an, China, M.S. in Computer Science, 2016.
+- Northwestern Polytechnical University, Xi'an, China, B.S. in Computer Science, 2011.
 
 *** 
 
 # Work
-
-- Teaching Assistant, Department of Computer Science, Vanderbilt University, 2018 – present.
-- Research Assistant, AIVAS Lab, Vanderbilt University, 2018 – present.
+- Associate Professor, Department of Computer Science, Shanghai Normal University, 2024 - Present.
+- Research Assistant, AIVAS Lab, Vanderbilt University, 2018 – 2024.
+- Teaching Assistant, Department of Computer Science, Vanderbilt University, 2018 – 2023
 - Software Engineer, SAP Lab, Shanghai, China, 2016 – 2018.
 - Teaching Assistant, Northwestern Polytechnical University, Xi’an, China, 2013 – 2016.
 - Software Engineer, Huawei Technologies Co., Ltd, Shenzhen, China, 2011 – 2012.
@@ -143,11 +143,12 @@ While AI itself is paradoxical ... (GEB stuff), Gedol theorem
 ***
 
 # Awards and Honors
+- Shanghai Oversea High-Level Talent Program, Shanghai, China, 2024.
 - Proposal accepted by AAAI Doctoral Consortium, Vancouver, Canada, 2024.
 - Neurodiversity Inspired Science and Engineering Traineeship Award, Vanderbilt University, 2020.
 - Patrick Henry Winston Award for Best Student Paper, the Eighth Annual Conference on Advances in Cognitive Systems, 2020.
 - [Our Lab Interviewed by CBS 60 Minutes](https://youtu.be/YnAUy4BM0w8){:target="_blank"}
-- Graduate Scholarship, Vanderbilt University, 2018 – present.
+- Graduate Scholarship, Vanderbilt University, 2018 – 2023.
 - Graduate Scholarship, Northwestern Polytechnical University, 2013 – 2016.
 - Best Thesis Award, Northwestern Polytechnical University, 2011.
 
