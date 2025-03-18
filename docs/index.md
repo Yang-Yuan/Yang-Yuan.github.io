@@ -29,7 +29,7 @@ Feel free to shoot me a message at  yuan.yang [at] shnu [dot] edu [dot] cn if yo
 
 ## 2024
 
--""Yang, Yuan**, Visual Abstract Reasoning in Computational Imagery. Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23431-23432. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/30416){:target="_blank"}.
+-**Yang, Yuan**, Visual Abstract Reasoning in Computational Imagery. Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23431-23432. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/30416){:target="_blank"}.
 
 
 
