@@ -26,6 +26,13 @@ Feel free to shoot me a message at  yuan.yang [at] shnu [dot] edu [dot] cn if yo
 
 # Publications
 
+
+## 2024
+
+-""Yang, Yuan**, Visual Abstract Reasoning in Computational Imagery. Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23431-23432. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/30416){:target="_blank"}.
+
+
+
 ## 2023
 
 - **Yuan Yang**, Deepayan Sanyal, James Ainooson, Joel Michelson, Effat Farhana, and Maithilee Kunda. A cognitively-inspired neural architecture for visual abstract reasoning using contrastive perceptual and
