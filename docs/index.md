@@ -16,9 +16,46 @@ title: Yuan Yang
 
 Hi! Welcome to my homepage! I am Yuan Yang. I did my PhD in computer science at [Vanderbilt University](https://www.vanderbilt.edu/){:target="_blank"}, advised by [Prof. Maithilee Kunda](https://my.vanderbilt.edu/mkunda/){:target="_blank"}. I am now  a faculty member of the [College of Information, Mechanical, and Electrical Engineering](https://xxjd.shnu.edu.cn){:target="_blank"} at [Shanghai Normal Unversity](https://www.shnu.edu.cn/){:target="_blank"}. I am constantly looking for collaborators in AI and cogntive science. **And I am also accepting new master students this year**. 
  
-I have been fanatically pursuing big questions about intelligence per se---not only artificial intelligence (AI) but human intelligence (HI). My research is thus unavoidably interdisciplinary and interwined with studies about general intelligence, fluid intelligence, intelligence testing, abstract reasoning, visual spatial reasoning, cognitive information processing, and AI applcations in education. Find more about me and my lab's works at [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}. My [SHNU website](https://teacher.shnu.edu.cn/xxjdgcxy/yy2/list.psp){:target="_blank"} is under construction.
+I have been fanatically pursuing big questions about intelligence per se---not only artificial intelligence (AI) but human intelligence (HI). My research is thus unavoidably interdisciplinary and interwined with studies about general intelligence, fluid intelligence, intelligence testing, abstract reasoning, visual spatial reasoning, cognitive information processing, and AI applcations in education. Find more about me and my PhD lab's works at [AIVAS Lab](https://my.vanderbilt.edu/aivaslab/){:target="_blank"}. My [SHNU website](https://teacher.shnu.edu.cn/xxjdgcxy/yy2/list.psp){:target="_blank"} is under construction.
 
 Feel free to shoot me a message at  yuan.yang [at] shnu [dot] edu [dot] cn if you want to know more about my work.
+
+
+
+***
+
+# Research Interests
+I am particularly interested in three closely related topics---visual abstract reasoning, analogy making, and mental imagery. And most of my works lie in the interdisciplinary area of AI and cognitive systems.
+
+## Visual Abstract Reasoning
+Visual abstract reasoning tasks are commonly used in human intelligence tests for they can be very insensitive to non-intelligence factors, such as cultural and educational background, and meanwhile, closely correlated to core intelligence factors, such as fluid intelligence. I build AI systems to solve visual abstract reasoning tasks. The interesting part of this work is not solving the problem per se, but to build AI's ability of visual abstract reasoning that allows it to make sense out of unseen situations. In fact, the world "reasoning" here is a bit misleading when visual abstract reasoning is discussed, because visual abstract reasoning tasks are mainly testing the ability to discover underlying patterns beneath the perceptual stimuli; but once the underlying patterns are found, the reasoning is relatively trivial.
+
+## Visual Analogy Making
+Analogy making is at the center of human cognition. Like visual abstract reasoning, analogy problems are also widely used in many standardized tests. Visual analogy making can be considered as a specific case of visual abstract reasoning, in which reasoning is based on analogy. The interesting part of visual analogy making is, given two objects between which an analogy can be made, when/how we process inter-object relations and when/how we process intra-object relations, i.e., relations between components in each object. These two aspects of information processing are against and interdependent on each other. It is similar to the question of "which came first: the chicken or the egg". An iterative dynamic, possibly attention-based, cognitive process probably exists to reconcile between these two aspects. And I am looking into possible implementations of such a cognitive process in AI systems.
+
+## Computational Imagery
+While the imagery debate for human cognition has been going on for decades and never got resolved, the imagery representation is an ideal way to realize AI and has been less explored in AI research. AI (researchers) always has to face a trade-off between different representations; choosing one against another usually means an AI system that works in some situations but not the others. In contrast, no matter what representation (imagery or proposition) human cognition uses, it leads to robust intellectual ability in all situations. I thus look into the possible implementations of mental imagery. The interesting (and tricky)  part of this research is that mental imagery is not equivalent to mental images; and similarly, computational imagery is not equivalent to computer images.In particular, human can experience the mental imagery when the corresponding perceptual input is absent;
+human can mentally manipulate mental imagery and perform their thinking and reasoning through mental imagery, i.e., every step of the thinking process is rendered as a mental image; and thus the abstract concepts can be easily obtained from mental imagery. In a word, mental imagery implies visual thinking.
+
+There are already some extremely prototypical AI systems that use mental imagery, for example, the generative deep learning models. The ability to generate image according to latent variables is essential for mental imagery, which is similar to the situation that human can experience mental imagery without perceptual input. However, human mental imagery is far more sophisticated than generating images. These works can be a good start to explore the realm of computational imagery.
+
+
+## Cognitively-Inspired and Human-Centered Intelligent Digital Learning Systems
+Most of my earlier work focuses on theoretical research. Since joining SHNU in 2024, I have been pondering how to translate these theories into practical education applications, empowering every student to discover their best selves. With my collaborators and students, we have initiated a variety of engaging projects, applying AI to transform teaching and learning. I hold the view that tons of data and GPUs are not enough to resolve education's core issues if we fail to understand how the human mind functions. This explains the emphasis on "Cognitively-Inspired" and "Human-Centered" in the title above.
+
+
+
+
+<!---
+## The Paradoxical Flavor of My Research
+As you can tell these research topics, they are all dealing with some paradoxical cases. 
+For example, ...
+While AI itself is paradoxical ... (GEB stuff), Gedol theorem
+--->
+
+
+
+
 
 
 
@@ -27,8 +64,17 @@ Feel free to shoot me a message at  yuan.yang [at] shnu [dot] edu [dot] cn if yo
 # Publications
 
 ## 2026
+-Jianguo Pan, Huachao Yang, Yufei Shen, Peichi Zhou, **Yuan Yang**, and Chen Li. Terrain gap filling from single-view satellite imagery based on prior geographical knowledge constraints. In Computer Graphics International, 2026.
+
+-Jianguo Pan, Yewei Zhou, Yuchen Wan, Zihao Lian, Shunye Wang, Jiawen Gu, Peichi Zhou, and **Yuan Yang**. From errors to insights: Bi-level modeling of programming learning dynamics. In The IEEE International Conference on Multimedia & Expo, 2026.
+
+-Jianguo Pan, Jiawen Gu, Shunye Wang, Yewei Zhou, Peichi Zhou, and **Yuan Yang**. Generalizable sensor-based human activity recognition via seasonal style projection and trend feature disentanglement. In The IEEE International Conference on Multimedia & Expo, 2026.
+
 
 ## 2025
+- James Ainooson, Deepayan Sanyal, Joel Phillips Michelson, **Yuan Yang**, and Maithilee Kunda. A neurodiversity-inspired solver for the abstraction & reasoning corpus (ARC) using visual imagery and program synthesis. In Proceedings of the Twelfth Annual Conference on Advances in Cognitive Systems, 2025. [PDF](https://openreview.net/forum?id=mBh1ioSwDU){:target="_blank"}.
+
+
 
 ## 2024
 
@@ -80,31 +126,6 @@ In Proceedings of the Eighth Annual Conference on Advances in Cognitive Systems,
 
 
 
-***
-
-# Research Interests
-I am particularly interested in three closely related topics---visual abstract reasoning, analogy making, and mental imagery. And most of my works lie in the interdisciplinary area of AI and cognitive systems.
-
-## Visual Abstract Reasoning
-Visual abstract reasoning tasks are commonly used in human intelligence tests for they can be very insensitive to non-intelligence factors, such as cultural and educational background, and meanwhile, closely correlated to core intelligence factors, such as fluid intelligence. I build AI systems to solve visual abstract reasoning tasks. The interesting part of this work is not solving the problem per se, but to build AI's ability of visual abstract reasoning that allows it to make sense out of unseen situations. In fact, the world "reasoning" here is a bit misleading when visual abstract reasoning is discussed, because visual abstract reasoning tasks are mainly testing the ability to discover underlying patterns beneath the perceptual stimuli; but once the underlying patterns are found, the reasoning is relatively trivial.
-
-## Visual Analogy Making
-Analogy making is at the center of human cognition. Like visual abstract reasoning, analogy problems are also widely used in many standardized tests. Visual analogy making can be considered as a specific case of visual abstract reasoning, in which reasoning is based on analogy. The interesting part of visual analogy making is, given two objects between which an analogy can be made, when/how we process inter-object relations and when/how we process intra-object relations, i.e., relations between components in each object. These two aspects of information processing are against and interdependent on each other. It is similar to the question of "which came first: the chicken or the egg". An iterative dynamic, possibly attention-based, cognitive process probably exists to reconcile between these two aspects. And I am looking into possible implementations of such a cognitive process in AI systems.
-
-## Computational Imagery
-While the imagery debate for human cognition has been going on for decades and never got resolved, the imagery representation is an ideal way to realize AI and has been less explored in AI research. AI (researchers) always has to face a trade-off between different representations; choosing one against another usually means an AI system that works in some situations but not the others. In contrast, no matter what representation (imagery or proposition) human cognition uses, it leads to robust intellectual ability in all situations. I thus look into the possible implementations of mental imagery. The interesting (and tricky)  part of this research is that mental imagery is not equivalent to mental images; and similarly, computational imagery is not equivalent to computer images.In particular, human can experience the mental imagery when the corresponding perceptual input is absent;
-human can mentally manipulate mental imagery and perform their thinking and reasoning through mental imagery, i.e., every step of the thinking process is rendered as a mental image; and thus the abstract concepts can be easily obtained from mental imagery. In a word, mental imagery implies visual thinking.
-
-There are already some extremely prototypical AI systems that use mental imagery, for example, the generative deep learning models. The ability to generate image according to latent variables is essential for mental imagery, which is similar to the situation that human can experience mental imagery without perceptual input. However, human mental imagery is far more sophisticated than generating images. These works can be a good start to explore the realm of computational imagery.
-
-<!---
-## The Paradoxical Flavor of My Research
-As you can tell these research topics, they are all dealing with some paradoxical cases. 
-For example, ...
-While AI itself is paradoxical ... (GEB stuff), Gedol theorem
---->
-
-
 
 
 
@@ -133,7 +154,7 @@ While AI itself is paradoxical ... (GEB stuff), Gedol theorem
 
 # Services
 
-- Reviewer for Nature Machine Intelligence
+- Reviewer for Nature Machine Intelligence, Neurocomputing, Frontiers in Education, CogSci, ICME, ICDL.
 - Session Chair, CogSci 2022.
 - Department 
   - Mentoring undergraduates.
