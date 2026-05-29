@@ -64,11 +64,11 @@ While AI itself is paradoxical ... (GEB stuff), Gedol theorem
 # Publications
 
 ## 2026
--Jianguo Pan, Huachao Yang, Yufei Shen, Peichi Zhou, **Yuan Yang**, and Chen Li. Terrain gap filling from single-view satellite imagery based on prior geographical knowledge constraints. In Computer Graphics International, 2026.
+- Jianguo Pan, Huachao Yang, Yufei Shen, Peichi Zhou, **Yuan Yang**, and Chen Li. Terrain gap filling from single-view satellite imagery based on prior geographical knowledge constraints. In Computer Graphics International, 2026.
 
--Jianguo Pan, Yewei Zhou, Yuchen Wan, Zihao Lian, Shunye Wang, Jiawen Gu, Peichi Zhou, and **Yuan Yang**. From errors to insights: Bi-level modeling of programming learning dynamics. In The IEEE International Conference on Multimedia & Expo, 2026.
+- Jianguo Pan, Yewei Zhou, Yuchen Wan, Zihao Lian, Shunye Wang, Jiawen Gu, Peichi Zhou, and **Yuan Yang**. From errors to insights: Bi-level modeling of programming learning dynamics. In The IEEE International Conference on Multimedia & Expo, 2026.
 
--Jianguo Pan, Jiawen Gu, Shunye Wang, Yewei Zhou, Peichi Zhou, and **Yuan Yang**. Generalizable sensor-based human activity recognition via seasonal style projection and trend feature disentanglement. In The IEEE International Conference on Multimedia & Expo, 2026.
+- Jianguo Pan, Jiawen Gu, Shunye Wang, Yewei Zhou, Peichi Zhou, and **Yuan Yang**. Generalizable sensor-based human activity recognition via seasonal style projection and trend feature disentanglement. In The IEEE International Conference on Multimedia & Expo, 2026.
 
 
 ## 2025
